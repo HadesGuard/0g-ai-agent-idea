@@ -62,7 +62,7 @@ This document outlines the detailed **implementation steps** and a **demonstrati
   - Test with 7-day historical ETH prices.
 
 Collaboration with Allora Network
-For enhanced data inputs, the agent integrates outputs from Allora Network topics (e.g., yield predictions, risk scores). See detailed notes on this collaboration in ALLORA_COLLAB.md (./ALLORA_COLLAB.md).
+For enhanced data inputs, the agent integrates outputs from Allora Network topics (e.g., yield predictions, risk scores). See detailed notes on this collaboration in [ALLORA_COLLAB.md](./ALLORA_COLLAB.md).
 
 
 ### 4. Automation Layer
