@@ -1,4 +1,4 @@
-# Collaborating with Allora Network for Topic Outputs
+# Collaborating with Allora Network
 
 The collaboration with **Allora Network** to integrate its topic outputs into the **AI-Powered Restaking Optimization Agent**, a tool for automating multi-layer restaking in DeFi to optimize profits and assess risks. The focus is on leveraging Allora’s precomputed inferences (e.g., yield predictions, risk scores) to enhance the agent’s functionality.
 
