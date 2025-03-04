@@ -1,6 +1,6 @@
-# Note on Collaborating with Allora Network for Topic Outputs
+# Collaborating with Allora Network for Topic Outputs
 
-This note outlines the collaboration with **Allora Network** to integrate its topic outputs into the **AI-Powered Restaking Optimization Agent**, a tool for automating multi-layer restaking in DeFi to optimize profits and assess risks. The focus is on leveraging Allora’s precomputed inferences (e.g., yield predictions, risk scores) to enhance the agent’s functionality.
+The collaboration with **Allora Network** to integrate its topic outputs into the **AI-Powered Restaking Optimization Agent**, a tool for automating multi-layer restaking in DeFi to optimize profits and assess risks. The focus is on leveraging Allora’s precomputed inferences (e.g., yield predictions, risk scores) to enhance the agent’s functionality.
 
 ---
 
@@ -35,7 +35,7 @@ The agent requires reliable, real-time data for suggesting restaking strategies 
 
 ---
 
-## Implementation Notes
+## Implementation
 
 - **Setup:** Install `allorad` CLI and configure wallet ([Allora Docs](https://docs.allora.network)).
 - **Timeline:** Adds 2-3 days to fetch and test topic outputs.
