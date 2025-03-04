@@ -7,7 +7,6 @@ This document outlines the detailed **implementation** and a **demonstration gui
 ## Implementation Steps
 
 ### 1. Setup Development Environment
-**Duration:** 1-2 days  
 **Objective:** Prepare the necessary tools and infrastructure.  
 **Steps:**
 - **Install Dependencies:**
@@ -27,7 +26,6 @@ This document outlines the detailed **implementation** and a **demonstration gui
   - Start with Ethereum Goerli testnet. Request test ETH from [goerlifaucet.com](https://goerlifaucet.com).
 
 ### 2. Data Collection
-**Duration:** 2-3 days  
 **Objective:** Gather real-time and historical data for the AI model.  
 **Steps:**
 - **Staking Yields:**
@@ -45,7 +43,6 @@ This document outlines the detailed **implementation** and a **demonstration gui
   - Save to CSV or SQLite for quick access.
 
 ### 3. AI Model Development
-**Duration:** 3-5 days  
 **Objective:** Build logic for optimal restaking strategies.  
 **Steps:**
 - **Rule-Based Engine:**
@@ -67,7 +64,6 @@ For enhanced data inputs, the agent integrates outputs from Allora Network topic
 
 
 ### 4. Automation Layer
-**Duration:** 2-4 days  
 **Objective:** Enable on-chain restaking execution.  
 **Steps:**
 - **Smart Contract Interaction:**
@@ -86,7 +82,6 @@ For enhanced data inputs, the agent integrates outputs from Allora Network topic
   - Add retries for gas spikes.
 
 ### 5. API Development
-**Duration:** 2 days  
 **Objective:** Create a user-friendly API.  
 **Steps:**
 - **Endpoints:**
