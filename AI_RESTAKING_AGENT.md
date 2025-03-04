@@ -91,3 +91,16 @@ For enhanced data inputs, the agent integrates outputs from Allora Network topic
 - **Run:**
   ```bash
   uvicorn main:app --reload
+# User Interface (Chat and Voice Interaction) for AI-Powered Restaking Optimization Agent
+
+## 6. User Interface (Chat and Voice Interaction)
+**Objective:** Enhance user interaction by adding chat and voice interfaces to the API-based agent.
+
+Users can interact via chat or voice. By integrating natural language processing (NLP) and speech recognition, the agent can process text or spoken inputs and respond conversationally.
+
+#### Chat Interface
+**Tools:** Use a Python NLP library like `rasa` or `nltk` for intent recognition and response generation.
+
+#### Voice Interface
+**Tools:** Use speech_recognition for voice-to-text and pyttsx3 or gTTS for text-to-speech.
+
